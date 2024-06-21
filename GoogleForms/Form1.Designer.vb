@@ -65,7 +65,7 @@ Partial Class Form1
         Me.btnSubmit.Name = "btnSubmit"
         Me.btnSubmit.Size = New System.Drawing.Size(75, 23)
         Me.btnSubmit.TabIndex = 3
-        Me.btnSubmit.Text = "Submit"
+        Me.btnSubmit.Text = "Submit form"
         Me.btnSubmit.UseVisualStyleBackColor = True
         '
         'btnCreateForm

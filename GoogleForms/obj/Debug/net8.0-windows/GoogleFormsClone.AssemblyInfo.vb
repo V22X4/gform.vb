@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("GoogleFormsClone"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10c4d022123ee8b77bb02235fb38729e4a8e374"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("GoogleFormsClone"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("GoogleFormsClone"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

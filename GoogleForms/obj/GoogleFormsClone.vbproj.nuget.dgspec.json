@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\V\\VS code dev\\googledoc.vb\\GoogleFormsClone\\GoogleFormsClone.vbproj": {}
+    "C:\\Users\\visha\\V\\VS code dev\\test\\test\\gform.vb\\GoogleForms\\GoogleFormsClone.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\V\\VS code dev\\googledoc.vb\\GoogleFormsClone\\GoogleFormsClone.vbproj": {
+    "C:\\Users\\visha\\V\\VS code dev\\test\\test\\gform.vb\\GoogleForms\\GoogleFormsClone.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\V\\VS code dev\\googledoc.vb\\GoogleFormsClone\\GoogleFormsClone.vbproj",
+        "projectUniqueName": "C:\\Users\\visha\\V\\VS code dev\\test\\test\\gform.vb\\GoogleForms\\GoogleFormsClone.vbproj",
         "projectName": "GoogleFormsClone",
-        "projectPath": "C:\\Users\\visha\\V\\VS code dev\\googledoc.vb\\GoogleFormsClone\\GoogleFormsClone.vbproj",
+        "projectPath": "C:\\Users\\visha\\V\\VS code dev\\test\\test\\gform.vb\\GoogleForms\\GoogleFormsClone.vbproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\V\\VS code dev\\googledoc.vb\\GoogleFormsClone\\obj\\",
+        "outputPath": "C:\\Users\\visha\\V\\VS code dev\\test\\test\\gform.vb\\GoogleForms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config"
